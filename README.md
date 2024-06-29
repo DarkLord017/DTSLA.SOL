@@ -58,7 +58,11 @@ next<br>
 
    Simulators and sources are to test if they are working properly or not<br>
 
-   Frontend technical documentation can be found in that readme<br>
+  FRONTEND
+ [Home.js](https://github.com/DarkLord017/DTSLA.SOL/blob/Application/src/Home.js) Home Page jsx code <br>
+[TryNow.js](https://github.com/DarkLord017/DTSLA.SOL/blob/Application/src/TryNow.js) Try Now js code (ethers implemrntation) <br>
+[LoginDialog.jsx](https://github.com/DarkLord017/DTSLA.SOL/blob/Application/src/LoginDialog.jsx) Login Dialog jsx code with progress bar (ethers implementation) <br>
+
 
    __Challenges Faced__<br>
     1. Callback gas limit issue while doing it on the same contract then chenaged mint and redeem in differnet contracts.<br>
