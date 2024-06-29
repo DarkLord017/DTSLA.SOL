@@ -82,6 +82,17 @@ next<br>
        2. Chainlink function<br>
        3. How to integrate accross different contracts<br>
        4. Something about stocks<br>
+       5. ERC20 contracts<br>
+        6. Development using alpaca<br>
+
+
+   __Technologies Used__<br>
+    1. Foundry<br>
+    2. Chainlink functions<br>
+    3. Chainlink subscriptions<br>
+    4. Ethers<br>
+    5. React<br>
+    6. Material-ui<br>
        
         
         
