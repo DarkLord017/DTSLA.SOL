@@ -17,6 +17,11 @@ const LoginDialog = ({ open, setOpen, mintAmount, inputValue }) => {
 
     const handleClose = () => {
         setOpen(false);
+        setProgress(0);
+        setVariant("success");
+        setDialogText("Please approve the following transactions!");
+        setAlert(false);
+
     };
 
     const handleSendTransaction = async () => {
