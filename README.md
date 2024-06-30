@@ -98,7 +98,12 @@ next<br>
     5. React<br>
     6. Material-ui<br>
        
-        
+ __CONTRACT ADDRESSES__<br>
+  DTSLARouter - 0x6087c28F5a39A3718113C03BD1d9e19D96453b24 <br>
+  DTSLARedeem - 0xdecf9a6ac46e5e898ef36f8fa63c188b284d296a <br>
+  TSLAPricefeed - 0x9ea6b85f47051e33a8a30d064dace832316cd7bc <br>
+  
+  
         
         
 
